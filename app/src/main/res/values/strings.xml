@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Save In File</string>
+    <string name="app_header">Data to Save</string>
+    <string name="input_hint">Enter data here</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="preview_data">Preview data</string>
+    <string name="file_name">Lab Practical</string>
+</resources>
